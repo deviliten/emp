@@ -1,0 +1,1 @@
+-Programa de "empréstimo" com a condição de que o valor máximo seja calculado multiplicando o salário do cliente por 3 e somando a um quinto do valor do saldo da conta.
